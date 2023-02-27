@@ -507,8 +507,3 @@ Engine Dependency For The Project
 - Praabindh P - [@praabindh](https://www.github.com/praabindh)
 
 Built During The Internship Phase Of Product Engineer In [Codingmart Technologies](https://codingmart.com/), Coimbatore, Tamil Nadu, India.
-
-## Acknowledgements
-
- - [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
- - [Node.js, Express, MongoDB & More: The Complete Bootcamp 2023](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
