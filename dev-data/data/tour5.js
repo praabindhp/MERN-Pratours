@@ -3,7 +3,7 @@ const tour5 = {
   id: 5,
   name: 'The Sports Lover',
   startLocation: 'California, USA',
-  nextStartDate: 'July 2021',
+  nextStartDate: 'July 2023',
   duration: 14,
   maxGroupSize: 8,
   difficulty: 'difficult',
